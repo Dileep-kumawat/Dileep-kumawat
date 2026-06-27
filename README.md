@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming a Full stack web developer with gen ai skills<br>👯 I’m looking to collaborate on open source full stack project<br>🤝 I’m looking for help with people who got really a good knowledge in my field<br>🌱 I’m currently learning Full Stack web dev<br>💬 Ask me about anything you want<br>⚡ Fun fact : I love to explore new stuff
+Full Stack Software Engineer experienced in building AI-powered SaaS applications, cloud-native developer tools,
+and scalable backend systems from concept to deployment. Strong background in distributed systems, real-time
+architectures, AI integration, and production-grade web applications, with a focus on scalable system design,
+performance, and developer experience.
+
 
 
 ## 🌐 Socials:
